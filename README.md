@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 📡 Clone the repo
    ```sh
-   git clone https://github.com/Bintangkp/Optimization-of-Flight-Operations
+   git clone https://github.com/Bintangkp/Optimization-of-Flight-Operations.git
 ```
 
 🧐 Open up the folder on Visual Studio Code
@@ -61,4 +61,4 @@ Feel free to reach out if there are any issues regarding this project
 
 👨‍💻 GitHub: github.com/Bintangkp
 
-Project Link: https://github.com/Bintangkp/Web-Scrapping-Bukalapak
+Project Link: https://github.com/Bintangkp/Optimization-of-Flight-Operations
